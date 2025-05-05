@@ -1,0 +1,5 @@
+Router desygnowany i zapasowy router desygnowany istnieją w sieciach wielodostępowych by zapewnić synchronizację baz danych routerów. Mówimy o synchronizacji dopiero po ustawieniu przyległości pakietami [[Hello]]. 
+
+Jeśli DR i BDR nie są potrzebne, bo nie jesteśmy w sieci wielodostępowej, wystarczy zadecydować który z dwóch routerów wyśle [[Komunikaty, pakiety OSPF|pakiety DBD]] jako pierwszy - będzie to ten o wyższym [[Identyfikator OSPF|identyfikatorze routera]]. 
+
+Jeśli DR i BDR są potrzebne, a w sieciach wielodostępowych są, to przed przejściem do ExStart dokonywana jest ich elekcja. Zadaniem DR jest zbieranie i dystrybucja wszystkich wysyłanych i odbieranych LSA. DR zbiera i rozsyła **tylko** LSA, routing itd. działa normalnie. Dzięki takiemu rozwiązaniu sieć wielodostępowa nie jest zalewana nadmiarowymi pakietami LSA. 

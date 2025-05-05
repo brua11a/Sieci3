@@ -1,0 +1,1 @@
+**RIP** (Routing Information Protocol) to stary protokół routingu dynamicznego. Wykorzystywał on wektor odległości jako metrykę, konkretniej liczbę przeskoków. Oznaczało to, że RIP nie brał pod uwagę prędkości łączy, przez co z czasem wyszedł z użycia.

@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "bca88a3f2d5ad5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1baebadaa528ab4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e92ee6d227595c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Bazy danych OSPF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bazy danych OSPF"
+            }
+          },
+          {
+            "id": "ef5c8b3b8e88dc1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Proces routingu stanu łącza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proces routingu stanu łącza"
+            }
+          },
+          {
+            "id": "5cf6832188cbcfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Stany operacyjne OSPF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Stany operacyjne OSPF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1d465df32cd7583",
+    "type": "split",
+    "children": [
+      {
+        "id": "375492a521530402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d99b53da49dd6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "577771a6ab15c3fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94cccf6277a7f1a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63319bc5368cf299",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff865f5a1f77b0c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440ec340c01446f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Bazy danych OSPF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bazy danych OSPF"
+            }
+          },
+          {
+            "id": "2fb7200eb6aa11f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Bazy danych OSPF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bazy danych OSPF"
+            }
+          },
+          {
+            "id": "0424701f7fe2b0d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea1e1c2ed8a6ee96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Jednoobszarowy OSPF/Bazy danych OSPF.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bazy danych OSPF"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "15e92ee6d227595c",
+  "lastOpenFiles": [
+    "Jednoobszarowy OSPF/Hello.md",
+    "Jednoobszarowy OSPF/Identyfikator OSPF.md",
+    "Jednoobszarowy OSPF/Bazy danych OSPF.md",
+    "Jednoobszarowy OSPF/Komunikaty, pakiety OSPF.md",
+    "Jednoobszarowy OSPF/Koszt routingu.md",
+    "Jednoobszarowy OSPF/Obszary OSPF.md",
+    "Jednoobszarowy OSPF/OSPF.md",
+    "Jednoobszarowy OSPF/OSPFv6.md",
+    "Jednoobszarowy OSPF/Proces routingu stanu łącza.md",
+    "Jednoobszarowy OSPF/RIP.md",
+    "Jednoobszarowy OSPF/Stany operacyjne OSPF.md",
+    "Jednoobszarowy OSPF/Router desygnowany.md",
+    "Jednoobszarowy OSPF/Przyległość sąsiadów OSPF.md",
+    "Pasted image 20250505231510.png",
+    "Pasted image 20250505230939.png",
+    "Pasted image 20250505225208.png",
+    "Pasted image 20250505224533.png",
+    "Pasted image 20250505224140.png",
+    "Pasted image 20250505224131.png",
+    "Pasted image 20250505223010.png",
+    "Jednoobszarowy OSPF/bazach danych.md",
+    "README.md",
+    "Jednoobszarowy OSPF"
+  ]
+}
