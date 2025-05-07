@@ -8,3 +8,4 @@ Najlepsze ścieżki są wybierane i zapisywane w tablicy routingu. Zachowywane s
 
 OSPF szybko osiąga [[Proces routingu stanu łącza|zbieżność]] dzięki wysyłaniu odpowiednich [[Komunikaty, pakiety OSPF|komunikatów]], lepiej się skaluje i nadaje do większych sieci.
 
+[[Konfiguracja OSPF]] polega na włączeniu protokołu, ustawieniu obszaru i ustawieniu identyfikatora, ewentualnie modyfikacji innych parametrów.

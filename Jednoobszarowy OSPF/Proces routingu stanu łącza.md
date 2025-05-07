@@ -12,3 +12,5 @@ Do uzyskania zbieżności i utrzymania aktualnego stanu w bazie stanu łącza ([
    >Ze wszystkich gałęzi drzewa wybierane są te o najniższym koście, są one ostatecznie wpisywane do tablicy routingu.
    
 Podczas uzyskiwania zbieżności router przechodzi przez [[stany operacyjne OSPF]] w zależności od etapu i typu sieci.
+
+Z routingiem w OSPF powiązane jest [[propagowanie trasy domyślnej]], często statycznej.

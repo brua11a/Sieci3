@@ -5,7 +5,7 @@
 3. **Stan Two-Way**
    >Stan ten zaczyna się gdy router odbiera pakiet Hello ze swoim własnym identfikatorem routera umieszczonym na liście sąsiadów - oznacza to, że sąsiedzi routera "wiedzą" o jego istnieniu. W tym stanie komunikacja jest dwukierunkowa, a na łączach wielodostępowych wybierany jest [[Router desygnowany|DR i BDR]].
 4. **Stan ExStart**
-   >W sieciach Point to Point oba routery decydują który z nich zainincjuje wymianę [[Komunikaty, pakiety OSPF|pakietów DBD]] 
+   >W sieciach [[Sieci OSPF punkt-punkt|Point to Point]] oba routery decydują który z nich zainincjuje wymianę [[Komunikaty, pakiety OSPF|pakietów DBD]] 
 5. **Stan Exchange**
    >Routery wymieniają się już pakietami DBD, a jeśli informacji brakuje to przechodzą do stanu Loading. Pakiety DBD zawierają typ pakietu stanu łącza, adres routera, koszt łącza, numer sekwencyjny...
 6. **Stan Loading**
