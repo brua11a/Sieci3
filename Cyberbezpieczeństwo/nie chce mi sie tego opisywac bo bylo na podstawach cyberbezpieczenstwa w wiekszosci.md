@@ -1,0 +1,1 @@
+jesli ktos chce cos dodac to feel free ja cba
