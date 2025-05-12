@@ -21,6 +21,6 @@ Rozszerzone ACL powinny być umieszczane jak najbliżej źródła. Dzięki możl
 
 Na przykładzie tutaj jest kilka rozwiązań i wiele z nich będzie poprawne, ale najlepszym jest postawienie ACL na interfejsie WCHODZĄCYM do R1 z sieci `192.168.11.0/24` żeby nie filtrować niepotrzebnie ruchu, dla którego nie przewidujemy filtrów jak przy postawieniu ACL na interfejsie WYCHODZĄCYM z routera - dla tego rozwiązania należałoby dodatkowo dodać coś w stylu `permit ip any any` by nie blokować pozostałego ruchu, a tylko FTP i TELNET z `192.168.11.0/24` do `192.168.30.0/24`.
 
-Numerowane rozszerzone listy ACL przyjmują numery z zakresu `100-199` oraz `2000-2699`.
+[[Numerowane rozszerzone listy ACL]] przyjmują numery z zakresu `100-199` oraz `2000-2699`.
 
-Nazwane rozszerzone listy ACL mogą mieć dowolną nazwę, a przy ich tworzeniu używamy polecenia `ip access-list extended EXT_NAME`. 
+[[Nazwane rozszerzone listy ACL]] mogą mieć dowolną nazwę, a przy ich tworzeniu używamy polecenia `ip access-list extended EXT_NAME`. 

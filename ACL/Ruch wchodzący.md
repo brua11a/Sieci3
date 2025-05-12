@@ -1,0 +1,1 @@
+Pakiety filtrujemy na **WEJŚCIU** zazwyczaj gdy sieć dołączona do interfejsu wyjściowego jest jedynym źródłem informacji - czyli cały ruch do przefiltrowania wchodzi jednym interfejsem, zatem można go odfiltrować zanim przejdzie do interfejsu wyjściowego, co jest "lżejsze" dla routera niż przeniesienie pakietu na interfejs wyjściowy i dopiero wtedy go odfiltrowanie.

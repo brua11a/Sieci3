@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "07bbdee3cd6f082f",
+        "id": "d3449b53e536b333",
         "type": "tabs",
         "children": [
           {
-            "id": "0d51b8f3d56eed96",
+            "id": "ee2f6d266474ad88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jednoobszarowy OSPF/Propagowanie trasy domyślnej.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Propagowanie trasy domyślnej"
+              "title": "New tab"
             }
           }
         ]
@@ -168,40 +164,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d51b8f3d56eed96",
+  "active": "ee2f6d266474ad88",
   "lastOpenFiles": [
-    "Pasted image 20250507112030.png",
-    "Jednoobszarowy OSPF/Proces routingu stanu łącza.md",
+    "ACL/Nazwane rozszerzone listy ACL.md",
+    "Pasted image 20250512191411.png",
+    "ACL/Nazwane standardowe listy ACL.md",
+    "ACL/Established TCP.md",
+    "Pasted image 20250512184141.png",
+    "Pasted image 20250512184021.png",
+    "ACL/Numerowane rozszerzone listy ACL.md",
+    "Pasted image 20250512183609.png",
+    "Pasted image 20250512183503.png",
+    "ACL/Numerowane standardowe listy ACL.md",
+    "ACL/Rozszerzone ACL.md",
+    "ACL/Ruch wchodzący.md",
+    "ACL/Standardowe ACL.md",
+    "ACL/Zabezpieczanie portów VTY.md",
+    "ACL/Ruch wychodzący.md",
+    "Pasted image 20250512173320.png",
+    "ACL/Lista ACL.md",
+    "Pasted image 20250512172434.png",
+    "Pasted image 20250509164029.png",
+    "Pasted image 20250509163935.png",
+    "Pasted image 20250509163427.png",
+    "Jednoobszarowy OSPF/Maska blankietowa.md",
+    "QoS/QoS.md",
+    "QoS",
+    "Jednoobszarowy OSPF/Stany operacyjne OSPF.md",
+    "Cyberbezpieczeństwo/nie chce mi sie tego opisywac bo bylo na podstawach cyberbezpieczenstwa w wiekszosci.md",
+    "Cyberbezpieczeństwo/Ataki.md",
+    "Cyberbezpieczeństwo/Terminologia.md",
+    "Cyberbezpieczeństwo/Narzędzia.md",
     "Jednoobszarowy OSPF/Propagowanie trasy domyślnej.md",
+    "ACL",
+    "Cyberbezpieczeństwo",
+    "Jednoobszarowy OSPF/Proces routingu stanu łącza.md",
     "Jednoobszarowy OSPF/OSPF.md",
     "Jednoobszarowy OSPF/Obszary OSPF.md",
-    "Jednoobszarowy OSPF/Maska blankietowa.md",
     "Jednoobszarowy OSPF/Koszt routingu.md",
     "Jednoobszarowy OSPF/Konfiguracja OSPF.md",
     "Jednoobszarowy OSPF/Komunikaty, pakiety OSPF.md",
-    "Jednoobszarowy OSPF/Sieci OSPF wielodostępowe.md",
-    "Jednoobszarowy OSPF/Stany operacyjne OSPF.md",
-    "Jednoobszarowy OSPF/Hello.md",
-    "Pasted image 20250507104543.png",
-    "Jednoobszarowy OSPF/Router desygnowany.md",
-    "Jednoobszarowy OSPF/Identyfikator OSPF.md",
-    "Pasted image 20250507102913.png",
-    "Jednoobszarowy OSPF/Bazy danych OSPF.md",
-    "Jednoobszarowy OSPF/Sieci OSPF punkt-punkt.md",
-    "Pasted image 20250507101834.png",
-    "Jednoobszarowy OSPF/RIP.md",
-    "Jednoobszarowy OSPF/Interfejs pasywny.md",
-    "Jednoobszarowy OSPF/OSPFv6.md",
-    "Pasted image 20250507000612.png",
-    "Pasted image 20250506235226.png",
-    "Pasted image 20250506102738.png",
-    "Jednoobszarowy OSPF/Przyległość sąsiadów OSPF.md",
-    "Pasted image 20250505231510.png",
-    "Pasted image 20250505230939.png",
-    "Pasted image 20250505225208.png",
-    "Pasted image 20250505224533.png",
-    "Jednoobszarowy OSPF/bazach danych.md",
-    "README.md",
     "Jednoobszarowy OSPF"
   ]
 }
