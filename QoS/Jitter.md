@@ -1,0 +1,1 @@
+Jitter to różnica między wartościami opóźnienia odebranych pakietów. Jest zazwyczaj spowodowany przeciążeniem sieci.
