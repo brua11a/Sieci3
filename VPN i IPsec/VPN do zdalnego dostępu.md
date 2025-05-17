@@ -1,0 +1,1 @@
+Tego typu [[VPN]] jest wykorzystywany przez klienta końcowego i włączany w razie potrzeby uzyskania zdalnego dostępu. Pozwala na bezpieczny dostęp do zasobów firmowych poprzez tunel [[SSL]] (przy kliencie przeglądarkowym) lub [[IPsec]] (przy kliencie VPN bezpośrednio na urządzeniu). 

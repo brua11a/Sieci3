@@ -1,0 +1,1 @@
+Pozwala łączyć IPv6 z [[NAT]], konkretnie pozwala tłumaczyć IPv4 na IPv6 i vice versa, co daje gładsze przejście z IPv4 na IPv6. Podwójny stos pozwala enkapsuować pakiety IPv6 wewnątrz pakietu IPv4. 

@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Do stworzenia rozszerzonej nazwanej listy ACL posłuży polecenie:
 
 `R1(config)#`**`ip access-list extended`** *`access-list-name`*

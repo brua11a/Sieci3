@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Do stworzenia standardowej nazwanej listy ACL posłuży polecenie:
 
 `R1(config)#`**`ip access-list standard`** *`access-list-name`*

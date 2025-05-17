@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 [[Lista ACL|Listy ACL]] mogą też służyć do filtrowania ruchu pochodzącego z portów VTY, żeby ograniczyć zdalny dostęp administracyjny. Może to być dowolny typ listy. Żeby je zastosować, należy wybrać konkretne linie VTY (zazwyczaj po prostu wszystkie) i wydać na nich polecenie:
 
 `R1(config-line)#`**`access-class`** *`{access-list-number | access-list-name}`* **`{in | out}`**

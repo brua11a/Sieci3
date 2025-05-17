@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Do stworzenia standardowej numerowanej listy ACL posłuży polecenie:
 
 `R1(config)#`**`access-list`** *`access-list-number`* **`{deny | permit | remark}`** *`source [source-wildcard]`* **`[log]`**

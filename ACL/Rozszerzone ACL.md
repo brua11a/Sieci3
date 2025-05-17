@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Rozszerzone [[Lista ACL|listy ACL]] składają się z ACE pozwalających filtrować ruch na podstawie źródłowego i docelowego adresu IP, a także typu protokołu, źródłowego i docelowego portu i więcej. Wszystko, co da się zrobić [[Standardowe ACL|standardowymi ACL]] da się zrobić rozszerzonymi, ale rozszerzone listy potrafią o wiele więcej, zatem są częściej używane. 
 
 #### Przykładowy ACE do listy ACL Rozszerzonej:

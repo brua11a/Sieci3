@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Do stworzenia rozszerzonej numerowanej listy ACL posłuży polecenie:
 
 `R1(config)#`**`access-list`** *`access-list-number`* **`{deny | permit | remark}`** *`protocol source source-wildcard [operator {port}] destination destination-wildcard [operator {porty}]`* **`[established] [log]`**

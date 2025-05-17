@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 TCP podtrzymuje połączenie i może pełnić rolę zapory stanowej dzięki słowu kluczowemu **`established`**. Dzięki niemu jeśli ruch TCP wyjdzie z routera, to może do niego wrócić, ale nie daje to jednocześnie wstępu z zewnątrz pozostałym pakietom.
 
 Ruch wygenerowany z hosta z zewnątrz nie dotrze do sieci wewnętrznej, ale ruch wygenerowany w sieci wewnętrznej dosięgnie hosta z zewnątrz i wróci bez problemu.

@@ -1,3 +1,7 @@
+---
+tags:
+  - konfiguracja
+---
 Standardowe [[Lista ACL|listy ACL]] składają się z ACE pozwalających filtrować ruch jedynie na podstawie źródłowego adresu IP pakietu. 
 
 #### Przykładowy ACE do listy ACL standardowej:
