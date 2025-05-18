@@ -1,0 +1,3 @@
+Są to specjalnie przygotowane scenariusze na [[SNMP|agencie SNMP]], w których agent zachowuje się w określony sposób. Działa to jak "alarmy" odpalane w konkretnych sytuacjach, na przykład wystąpienie błędu uwierzytelniania, restart, przeciążenie sieci. Jest to natychmiastowe i nie wymaga ingerencji (żądania) menedżera. 
+
+Dzięki istnieniu *trapów* nie trzeba tak często okresowo odpytywać każdego urządzenia agenta - zamiast tego można liczyć na to, że jeśli stanie się coś ważnego to agent sam to zgłosi bez odpytywania. 
