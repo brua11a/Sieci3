@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d3449b53e536b333",
+        "id": "2d09ebd5bb63487d",
         "type": "tabs",
         "children": [
           {
-            "id": "ee2f6d266474ad88",
+            "id": "c4d2db2655ab8aac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zarządzanie siecią/Kopia zapasowa TFTP.md",
+                "file": "ACL/Lista ACL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kopia zapasowa TFTP"
+              "title": "Lista ACL"
+            }
+          },
+          {
+            "id": "f691a1e294fd9a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACL/Rozszerzone ACL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rozszerzone ACL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nazwane rozsz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,45 +184,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2f6d266474ad88",
+  "active": "f691a1e294fd9a3d",
   "lastOpenFiles": [
-    "Zarządzanie siecią/Odtwarzanie hasła.md",
-    "Zarządzanie siecią/System plików.md",
-    "Zarządzanie siecią/Kopia zapasowa TFTP.md",
-    "Zarządzanie siecią/Syslog.md",
-    "Pasted image 20250518131855.png",
-    "Zarządzanie siecią/Sondaże SNMP.md",
-    "Zarządzanie siecią/MIB.md",
-    "Zarządzanie siecią/NTP.md",
-    "Zarządzanie siecią/Pułapki agentów SNMP.md",
-    "Zarządzanie siecią/Zabezpieczenia społecznościowe.md",
-    "Zarządzanie siecią/SNMP.md",
-    "Zarządzanie siecią/Żądania SNMP.md",
-    "Pasted image 20250518130003.png",
-    "Zarządzanie siecią/LLDP.md",
-    "Zarządzanie siecią/CDP.md",
-    "Pasted image 20250518115056.png",
-    "Pasted image 20250518114609.png",
-    "Pasted image 20250518114126.png",
-    "Pasted image 20250518113828.png",
-    "Pasted image 20250518113823.png",
-    "QoS/Klasyfikacja i oznaczanie.md",
-    "Zarządzanie siecią",
-    "Pasted image 20250517180225.png",
-    "Pasted image 20250517175430.png",
-    "Pasted image 20250517175331.png",
-    "QoS/Implementacje QoS.md",
-    "QoS/QoS.md",
-    "QoS/Modele QoS.md",
-    "QoS/Kolejkowanie QoS.md",
-    "QoS/Jitter.md",
-    "VPN i IPsec/IPsec.md",
+    "ACL/Lista ACL.md",
+    "ACL/Rozszerzone ACL.md",
+    "ACL/Nazwane rozszerzone listy ACL.md",
+    "WAN/Komutacja.md",
     "VPN i IPsec/MLPS VPN warstwy 2 i 3.md",
     "VPN i IPsec/VPN.md",
-    "VPN i IPsec/SSL.md",
-    "WAN/WAN.md",
+    "NAT/PAT.md",
+    "NAT/Dynamiczny NAT.md",
+    "Jednoobszarowy OSPF/Router desygnowany.md",
+    "ACL/Zabezpieczanie portów VTY.md",
+    "ACL/Ruch wychodzący.md",
+    "Jednoobszarowy OSPF/Stany operacyjne OSPF.md",
+    "QoS/Modele QoS.md",
+    "QoS/Klasyfikacja i oznaczanie.md",
+    "WAN/Protokoły WAN.md",
+    "NAT/NAT.md",
+    "ACL/Established TCP.md",
+    "NAT/NAT64.md",
+    "NAT/Statyczny NAT.md",
+    "NAT/Prywatne adresy IPv4.md",
+    "Projektowanie sieci/Sieci hierarchiczne.md",
+    "Projektowanie sieci/Routery cechy.md",
+    "Projektowanie sieci/Pojebane switche.md",
+    "Projektowanie sieci/Skalowalność.md",
+    "Projektowanie sieci/Warstwy sieci hierarchicznej.md",
+    "Pasted image 20250521130856.png",
+    "Pasted image 20250521130824.png",
+    "Pasted image 20250521130510.png",
+    "Pasted image 20250521130030.png",
+    "Pasted image 20250521130029.png",
+    "Pasted image 20250521125839.png",
     "Jednoobszarowy OSPF/OSPF.md",
-    "VPN i IPsec/VPN do zdalnego dostępu.md",
+    "Pasted image 20250520104609.png",
+    "Pasted image 20250520104533.png",
+    "Pasted image 20250520103913.png",
+    "Pasted image 20250520103904.png",
+    "Projektowanie sieci",
+    "Zarządzanie siecią",
     "VPN i IPsec",
     "WAN",
     "NAT",
