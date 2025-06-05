@@ -14,7 +14,7 @@ Logi mogą być wysyłane do:
 
 Zazwyczaj syslog jest generowany pod wpływem zdarzeń sieciowych. W logu musi znaleźć się poziom ważności i czego on dotyczy (IP, OSPF, SYS, [[IPsec]], IF). Im niższy poziom, tym bardziej krytyczny jest log.
 
-![[Pasted image 20250518131855.png]]
+![[Pasted image 20250530115914.png]]
 
 Poziomy od 0 i 4 oznaczają, że wystąpiła awaria wpływająca na funkcjonalność urządzenia.
 Poziom 5 oznacza zdarzenia normalne, ale ważne, takie jak włączenie czy wyłączenie interfejsu.
@@ -45,5 +45,14 @@ R1(config-if)# no shutdown
 *Mar  1 11:52:46: %LINEPROTO-5-UPDOWN: Line protocol on Interface GigabitEthernet0/0/0,
 changed state to up
 R1(config-if)#
+```
+
+Polecenie `logging trap`*`level`* ogranicza komunikaty rejestrowane na serwerze syslog na podstawie ważności. Poziom (level) to nazwa lub numer poziomu istotności. Rejestrowane są tylko komunikaty równe lub numerycznie niższe od określonego poziomu.
+
+```
+R1(config)# logging host 209.165.200.225
+R1(config)# logging trap notifications
+R1(config)# logging on
+R1(config)#
 ```
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zarządzanie siecią/Kopia zapasowa TFTP.md",
+                "file": "ACL/Ruch wychodzący.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kopia zapasowa TFTP"
+              "title": "Ruch wychodzący"
             }
           }
         ]
@@ -170,17 +170,25 @@
   },
   "active": "ee2f6d266474ad88",
   "lastOpenFiles": [
+    "ACL/Ruch wchodzący.md",
+    "ACL/Ruch wychodzący.md",
+    "ACL/Lista ACL.md",
+    "Zarządzanie siecią/Syslog.md",
+    "Pasted image 20250530115914.png",
+    "Zarządzanie siecią/SNMP.md",
+    "Zarządzanie siecią/Pułapki agentów SNMP.md",
+    "Zarządzanie siecią/Sondaże SNMP.md",
+    "Rozwiązywanie problemów/Dokumentacja.md",
+    "Pasted image 20250530111333.png",
+    "Pasted image 20250530111251.png",
+    "Zarządzanie siecią/Kopia zapasowa TFTP.md",
+    "Rozwiązywanie problemów",
     "Zarządzanie siecią/Odtwarzanie hasła.md",
     "Zarządzanie siecią/System plików.md",
-    "Zarządzanie siecią/Kopia zapasowa TFTP.md",
-    "Zarządzanie siecią/Syslog.md",
     "Pasted image 20250518131855.png",
-    "Zarządzanie siecią/Sondaże SNMP.md",
     "Zarządzanie siecią/MIB.md",
     "Zarządzanie siecią/NTP.md",
-    "Zarządzanie siecią/Pułapki agentów SNMP.md",
     "Zarządzanie siecią/Zabezpieczenia społecznościowe.md",
-    "Zarządzanie siecią/SNMP.md",
     "Zarządzanie siecią/Żądania SNMP.md",
     "Pasted image 20250518130003.png",
     "Zarządzanie siecią/LLDP.md",
@@ -192,9 +200,6 @@
     "Pasted image 20250518113823.png",
     "QoS/Klasyfikacja i oznaczanie.md",
     "Zarządzanie siecią",
-    "Pasted image 20250517180225.png",
-    "Pasted image 20250517175430.png",
-    "Pasted image 20250517175331.png",
     "QoS/Implementacje QoS.md",
     "QoS/QoS.md",
     "QoS/Modele QoS.md",
@@ -203,10 +208,6 @@
     "VPN i IPsec/IPsec.md",
     "VPN i IPsec/MLPS VPN warstwy 2 i 3.md",
     "VPN i IPsec/VPN.md",
-    "VPN i IPsec/SSL.md",
-    "WAN/WAN.md",
-    "Jednoobszarowy OSPF/OSPF.md",
-    "VPN i IPsec/VPN do zdalnego dostępu.md",
     "VPN i IPsec",
     "WAN",
     "NAT",
